@@ -1,2 +1,2 @@
 # TALL Template
-Simple Tailwind, Alpine.js, Laravel, Livewire boilerplate
+Simple Tailwind, Alpine.js, Laravel, Livewire boilerplate.
