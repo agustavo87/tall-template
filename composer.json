@@ -7,7 +7,6 @@
         "livewire",
         "alpinejs",
         "tailwind"
-
     ],
     "license": "MIT",
     "require": {
