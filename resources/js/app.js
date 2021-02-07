@@ -1,0 +1,5 @@
+import 'alpinejs'
+
+require('./bootstrap');
+
+
