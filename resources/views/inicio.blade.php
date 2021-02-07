@@ -3,7 +3,7 @@
     <h1 class="text-3xl font-bold pt-12 pb-1">
         Bienvenido!
     </h1>
-    <p>A continuación unos ejemplos para provar que todo funcione correctamente</p>
+    <p>A continuación unos ejemplos para probar que todo funcione correctamente</p>
 
     <h2 class=" text-xl font-medium pt-5 pb-1">
         Alpine Test
