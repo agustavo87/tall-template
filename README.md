@@ -16,7 +16,7 @@ cd tall-blog
 php artisan serve
 ```
 
-Ready to code. Also it can be launched with npm:
+Ready to code. Also it can be launched with npm watching changes in the assets:
 ```bash
 npm install
 npm run watch
